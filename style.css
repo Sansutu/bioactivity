@@ -1,0 +1,19 @@
+body {
+    background-color: #efeee7;
+}
+
+h1 {
+    font-size: 40px;
+    color:blue;
+}
+
+h2 {
+    font-size: 20px;
+    color:rebeccapurple;
+}
+
+ul {
+    list-style: name;
+    margin: 0;
+    padding: 0;
+}
