@@ -1,15 +1,19 @@
 body {
     background-color: #efeee7;
+    font-family :Georgia, "Times New Roman", Times, serif;
+    font-color: #333333;
+    margin: 0;
+    padding: 0;
 }
 
 h1 {
-    font-size: 40px;
-    color:blue;
+    font-size: 28px;
+    background-color: #333333;
+    font-color: #eee;
 }
 
 h2 {
-    font-size: 20px;
-    color:rebeccapurple;
+    font-size: 24px;
 }
 
 ul {
